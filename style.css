@@ -70,6 +70,12 @@ header .container {
     text-decoration: none;
     transition: background-color 0.3s ease;
 }
+.image{
+    width: 260px;
+    height: 260px;
+    border-radius: 180px;
+    float: left;
+}
 
 .view-btn:hover {
     background-color:brown;
@@ -184,11 +190,6 @@ section {
     .hero h2 {
         font-size: 2rem;
     }
-}
-.image{
-    width: 260px;
-    height: 260px;
-    border-radius: 180px;
 }
 .contact-container{
     height: 100vh;
